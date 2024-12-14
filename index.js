@@ -14,11 +14,11 @@ const { say } = cfonts
 const rl = createInterface(process.stdin, process.stdout)
  
 // CAmbia porel Nombre de tu bot
-say('Alya_Bot', {
+say('tilin bot', {
 font: 'chrome',
 align: 'center',
 gradient: ['red', 'magenta']})
-say(`Con amor por Emma (Violets Version)`, {
+say(`echo x tilin`, {
 font: 'console',
 align: 'center',
 gradient: ['red', 'magenta']});

@@ -9,7 +9,7 @@ import moment from 'moment-timezone'
 
 //---------[ Añada los numeros a ser Propietario/a ]---------
 
-global.owner = [['5212441357601', 'ＰＲＯＰＩＥＴＡＲＩＯ', true]]
+global.owner = [['5218336105471', 'Tilin', true]]
 global.mods = []
 global.prems = []
 
@@ -70,15 +70,15 @@ global.moment = moment
 
 //------------------------[ Stickers ]-----------------------------
 
-global.packname = 'AlyaBot'
-global.author = 'Emma (Violets Version)'
+global.packname = 'TILIN BOT'
+global.author = 'TILIN'
 
 //------------[ Versión | Nombre  ]------------
 
 // Cambia por el nombre de tu bot
 
-global.wm = 'AlyaBot' 
-global.botname = 'AlyaBot'
+global.wm = 'TILIN' 
+global.botname = 'TILIN'
 global.vs = '1.0.0'
 
 //----------------------------[ NIVELES | RPG ]---------------------------------
